@@ -1,5 +1,1 @@
-This is a readme!!
-
-sample text
-
-finance!!!
+this shit is conFUSING
