@@ -1,3 +1,3 @@
 class Fox
-  @says = nil
+  @says = "Woof!"
 end
